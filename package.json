@@ -1,6 +1,6 @@
 {
-  "name": "ref-array",
-  "description": "Create C \"array\" instances on top of Buffers",
+  "name": "@suldashi/ref-array",
+  "description": "Create C \"array\" instances on top of Buffers. Fixed Node 12 builds.",
   "keywords": [
     "array",
     "ref"
@@ -9,7 +9,7 @@
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/TooTallNate/ref-array.git"
+    "url": "git://github.com/suldashi/ref-array.git"
   },
   "main": "./lib/array.js",
   "license": "MIT",
