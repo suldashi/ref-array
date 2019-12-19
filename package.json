@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "4",
-    "ref": "lxe/ref#node-12"
+    "@suldashi/ref": "^2.0.1"
   },
   "devDependencies": {
     "bindings": "1",
